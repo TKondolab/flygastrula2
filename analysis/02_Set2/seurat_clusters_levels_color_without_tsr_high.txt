@@ -1,0 +1,17 @@
+Head_ectoderm	lightskyblue1
+Ectoderm_kn	skyblue2
+Ectoderm_PS1-2	blue3
+Dorsal_ectoderm_odd	olivedrab1
+Dorsal_ectoderm_even	olivedrab2
+Lateral_neuroectoderm	olivedrab3
+Medial_neuroectoderm	olivedrab4
+Ectoderm_PS14	darkgreen
+Amnioserosa	burlywood2
+Hindgut	goldenrod3
+Posterior_midgut	coral3
+Midline_cells	magenta
+Anterior_mesoderm	pink1
+Trunk_mesoderm	plum3
+Mesoderm_PS13	orchid4
+Posterior_mesoderm	deeppink4
+Pole_cells	gray50

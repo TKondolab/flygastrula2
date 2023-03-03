@@ -1,0 +1,12 @@
+Head_ectoderm	skyblue1	4
+Ectoderm_Dfd	skyblue3	7
+Amnioserosa	gray75	8
+Dorsal_ectoderm	olivedrab2	1
+Neuroectoderm	olivedrab4	2
+Ectoderm_PS14/Hindgut	goldenrod1	5
+Posterior_midgut	coral3	6
+Anterior_mesoderm 	plum1	9
+Trunk_mesoderm	plum3	0
+Posterior_mesoderm	deeppink3	10
+Pole_cells	gray35	11
+Ectoderm_tsr-high	purple3	3

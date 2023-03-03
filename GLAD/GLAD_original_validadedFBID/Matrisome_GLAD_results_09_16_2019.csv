@@ -1,0 +1,642 @@
+Gene,FBgn,Sub-group,Sub-sub-group,Confidence,Comments,validated_id,current_symbol
+26-29-p,FBgn0250848,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0250848,26-29-p
+Acp1,FBgn0014454,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0014454,Acp1
+Acp65Aa,FBgn0020765,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020765,Acp65Aa
+Actbeta,FBgn0024913,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,TGFb Family,FBgn0024913,Actbeta
+AdamTS-A,FBgn0286071,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAMTS,FBgn0286071,AdamTS-A
+AdamTS-B,FBgn0029791,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAMTS,FBgn0029791,AdamTS-B
+Ama,FBgn0000071,Drosophila Matrisome Genes,ECM-affiliated,,,FBgn0000071,Ama
+amon,FBgn0023179,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,,FBgn0023179,amon
+ana,FBgn0011746,Drosophila Matrisome Genes,ECM Glycoproteins,,,FBgn0011746,ana
+AnxB10,FBgn0000084,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Annexin,FBgn0000084,AnxB10
+AnxB11,FBgn0030749,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Annexin,FBgn0030749,AnxB11
+AnxB9,FBgn0000083,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Annexin,FBgn0000083,AnxB9
+aos,FBgn0004569,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0004569,aos
+atk,FBgn0036995,Drosophila Matrisome Genes,ECM Glycoproteins,,Ciliary Matrix,FBgn0036995,atk
+bnl,FBgn0014135,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,FGF Family,FBgn0014135,bnl
+Burs,FBgn0038901,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0038901,Burs
+c12.2,FBgn0040234,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0040234,c12.2
+C901,FBgn0021742,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0021742,C901
+cathD,FBgn0029093,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0029093,cathD
+Ccn,FBgn0052183,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0052183,Ccn
+Ccp84Aa,FBgn0004783,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0004783,Ccp84Aa
+Ccp84Ab,FBgn0004782,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0004782,Ccp84Ab
+Ccp84Ac,FBgn0004781,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0004781,Ccp84Ac
+Ccp84Ad,FBgn0004780,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0004780,Ccp84Ad
+Ccp84Ae,FBgn0004779,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0004779,Ccp84Ae
+Ccp84Af,FBgn0004778,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0004778,Ccp84Af
+Ccp84Ag,FBgn0004777,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0004777,Ccp84Ag
+Cda4,FBgn0052499,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Chitin Deacetylase,FBgn0052499,Cda4
+Cda5,FBgn0051973,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Chitin Deacetylase,FBgn0051973,Cda5
+Cda9,FBgn0034197,Drosophila Matrisome Genes,Apical Matrix,,Chitin Deacetylase,FBgn0034197,Cda9
+cer,FBgn0034443,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0034443,cer
+CG10140,FBgn0036363,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036363,CG10140
+CG10154,FBgn0036361,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036361,CG10154
+CG10359,FBgn0035452,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0035452,CG10359
+CG10725,FBgn0036362,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036362,CG10725
+CG11211,FBgn0033067,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0033067,CG11211
+CG1136,FBgn0035490,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035490,CG1136
+CG11374,FBgn0031214,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Galectin,FBgn0031214,CG11374
+CG11459,FBgn0037396,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0037396,CG11459
+CG11570,FBgn0036230,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036230,CG11570
+CG11674,FBgn0030551,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0030551,CG11674
+CG11828,FBgn0039616,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0039616,CG11828
+CG12009,FBgn0035430,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035430,CG12009
+CG12111,FBgn0030050,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0030050,CG12111
+CG12594,FBgn0037941,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0037941,CG12594
+CG13040,FBgn0036608,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036608,CG13040
+CG13041,FBgn0036605,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036605,CG13041
+CG13042,FBgn0036602,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036602,CG13042
+CG13043,FBgn0036600,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036600,CG13043
+CG13044,FBgn0036599,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036599,CG13044
+CG13056,FBgn0040794,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0040794,CG13056
+CG13059,FBgn0036607,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036607,CG13059
+CG13060,FBgn0036606,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036606,CG13060
+CG13063,FBgn0036601,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036601,CG13063
+CG13075,FBgn0036563,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036563,CG13075
+CG13086,FBgn0032770,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0032770,CG13086
+CG13138,FBgn0032211,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0032211,CG13138
+CG13308,FBgn0035932,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035932,CG13308
+CG13309,FBgn0035933,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035933,CG13309
+CG13312,FBgn0035931,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035931,CG13312
+CG13587,FBgn0035031,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0035031,CG13587
+CG13643,FBgn0040601,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0040601,CG13643
+CG13670,FBgn0035873,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035873,CG13670
+CG13675,FBgn0035845,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035845,CG13675
+CG13676,FBgn0035844,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035844,CG13676
+CG13806,FBgn0035325,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035325,CG13806
+CG13837,FBgn0039042,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0039042,CG13837
+CG13950,FBgn0031289,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Galectin,FBgn0031289,CG13950
+CG13965,FBgn0032834,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0032834,CG13965
+CG14089,FBgn0036861,Drosophila Matrisome Genes,ECM-affiliated,,Collagen-domain-containing Proteins,FBgn0036861,CG14089
+CG14125,FBgn0036232,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036232,CG14125
+CG14132,FBgn0040817,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0040817,CG14132
+CG14244,FBgn0040607,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0040607,CG14244
+CG14245,FBgn0039452,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0039452,CG14245
+CG14247,FBgn0039454,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0039454,CG14247
+CG14300,FBgn0038643,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0038643,CG14300
+CG14301,FBgn0038632,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0038632,CG14301
+CG14304,FBgn0038629,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0038629,CG14304
+CG14309,FBgn0038611,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,,FBgn0038611,CG14309
+CG14499,FBgn0034317,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0034317,CG14499
+CG14500,FBgn0034318,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0034318,CG14500
+CG14607,FBgn0037488,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0037488,CG14607
+CG14645,FBgn0040687,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0040687,CG14645
+CG14762,FBgn0033250,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0033250,CG14762
+CG14866,FBgn0038315,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0038315,CG14866
+CG14879,FBgn0038419,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Galectin,FBgn0038419,CG14879
+CG14880,FBgn0038422,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0038422,CG14880
+CG14957,FBgn0035412,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035412,CG14957
+CG15080,FBgn0034391,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0034391,CG15080
+CG15199,FBgn0030270,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0030270,CG15199
+CG15201,FBgn0030272,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0030272,CG15201
+CG15202,FBgn0030271,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0030271,CG15202
+CG15203,FBgn0030261,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0030261,CG15203
+CG15358,FBgn0031373,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0031373,CG15358
+CG15515,FBgn0039719,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0039719,CG15515
+CG1552,FBgn0030258,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0030258,CG1552
+CG15539,FBgn0039782,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0039782,CG15539
+CG15754,FBgn0030492,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0030492,CG15754
+CG15756,FBgn0030493,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0030493,CG15756
+CG15765,FBgn0029814,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0029814,CG15765
+CG15818,FBgn0031910,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0031910,CG15818
+CG15864,FBgn0040528,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0040528,CG15864
+CG17145,FBgn0036953,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036953,CG17145
+CG17147,FBgn0260393,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0260393,CG17147
+CG17211,FBgn0032414,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0032414,CG17211
+CG17672,FBgn0083978,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0083978,CG17672
+CG17739,FBgn0033710,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Spondin,FBgn0033710,CG17739
+CG17826,FBgn0036227,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036227,CG17826
+CG1791,FBgn0030163,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0030163,CG1791
+CG18231,FBgn0036796,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0036796,CG18231
+CG18233,FBgn0036795,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0036795,CG18233
+CG18278,FBgn0033836,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Sulfatase,FBgn0033836,CG18278
+CG18749,FBgn0042182,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0042182,CG18749
+CG1889,FBgn0030164,Drosophila Matrisome Genes,ECM-affiliated,,,FBgn0030164,CG1889
+CG2150,FBgn0003065,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0003065,CG2150
+CG2444,FBgn0030326,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0030326,CG2444
+CG2839,FBgn0031273,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0031273,CG2839
+CG30046,FBgn0050046,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Spondin,FBgn0050046,CG30046
+CG30203,FBgn0050203,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Spondin,FBgn0050203,CG30203
+CG30280,FBgn0050280,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0050280,CG30280
+CG31013,FBgn0051013,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051013,CG31013
+CG31016,FBgn0051016,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051016,CG31016
+CG31021,FBgn0051021,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051021,CG31021
+CG31077,FBgn0051077,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0051077,CG31077
+CG31145,FBgn0051145,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,FAM 20 Kinase,FBgn0051145,CG31145
+CG31268,FBgn0051268,Drosophila Matrisome Genes,ECM-affiliated,,Collagen-domain-containing Proteins,FBgn0051268,CG31268
+CG31371,FBgn0051371,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051371,CG31371
+CG31437,FBgn0051437,Drosophila Matrisome Genes,ECM-affiliated,,Collagen-domain-containing Proteins,FBgn0051437,CG31437
+CG31524,FBgn0051524,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051524,CG31524
+CG31869,FBgn0051869,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0051869,CG31869
+CG31997,FBgn0051997,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0051997,CG31997
+CG32024,FBgn0052024,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0052024,CG32024
+CG32036,FBgn0052036,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0052036,CG32036
+CG32199,FBgn0052199,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0052199,CG32199
+CG32201,FBgn0052201,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0052201,CG32201
+CG32284,FBgn0052284,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0052284,CG32284
+CG32302,FBgn0052302,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0052302,CG32302
+CG32564,FBgn0052564,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0052564,CG32564
+CG33258,FBgn0053258,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0053258,CG33258
+CG33263,FBgn0053263,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0053263,CG33263
+CG33293,FBgn0053293,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0053293,CG33293
+CG3348,FBgn0040609,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0040609,CG3348
+CG33985,FBgn0053985,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0053985,CG33985
+CG33986,FBgn0053986,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0053986,CG33986
+CG34033,FBgn0054033,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0054033,CG34033
+CG34041,FBgn0054041,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0054041,CG34041
+CG34177,FBgn0085206,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0085206,CG34177
+CG34178,FBgn0085207,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0085207,CG34178
+CG34215,FBgn0085244,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0085244,CG34215
+CG34220,FBgn0085249,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0085249,CG34220
+CG34282,FBgn0085311,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0085311,CG34282
+CG34324,FBgn0085353,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0085353,CG34324
+CG34426,FBgn0085455,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0085455,CG34426
+CG34427,FBgn0085456,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0085456,CG34427
+CG34454,FBgn0085483,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0085483,CG34454
+CG34460,FBgn0085489,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0085489,CG34460
+CG34461,FBgn0250833,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0250833,CG34461
+CG34462,FBgn0085491,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0085491,CG34462
+CG3631,FBgn0038268,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,FAM 20 Kinase,FBgn0038268,CG3631
+CG4115,FBgn0038017,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0038017,CG4115
+CG41520,FBgn0087011,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0087011,CG41520
+CG4174,FBgn0036793,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0036793,CG4174
+CG42296,FBgn0259192,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0259192,CG42296
+CG42342,FBgn0259244,Drosophila Matrisome Genes,ECM-affiliated,,Collagen-domain-containing Proteins,FBgn0259244,CG42342
+CG42367,FBgn0259713,Drosophila Matrisome Genes,Apical Matrix,,R&R Chitin-binding-domain-containing Proteins,FBgn0259713,CG42367
+CG42397,FBgn0259748,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0259748,CG42397
+CG42404,FBgn0259823,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0259823,CG42404
+CG42494,FBgn0260026,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0260026,CG42494
+CG42525,FBgn0260430,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0260430,CG42525
+CG42728,FBgn0261681,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0261681,CG42728
+CG42729,FBgn0261682,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0261682,CG42729
+CG43055,FBgn0262357,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0262357,CG43055
+CG43218,FBgn0262854,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0262854,CG43218
+CG43294,FBgn0262986,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0262986,CG43294
+CG43333,FBgn0263038,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0263038,CG43333
+CG43366,FBgn0263109,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0263109,CG43366
+CG43673,FBgn0263748,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0263748,CG43673
+CG43797,FBgn0264341,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0264341,CG43797
+CG43896,FBgn0264488,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0264488,CG43896
+CG4835,FBgn0035607,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035607,CG4835
+CG4847,FBgn0034229,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0034229,CG4847
+CG4982,FBgn0036598,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036598,CG4982
+CG5225,FBgn0038468,Drosophila Matrisome Genes,ECM-affiliated,,Collagen-domain-containing Proteins,FBgn0038468,CG5225
+CG5335,FBgn0034365,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Galectin,FBgn0034365,CG5335
+CG5367,FBgn0032228,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0032228,CG5367
+CG5550,FBgn0034160,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0034160,CG5550
+CG5756,FBgn0034301,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0034301,CG5756
+CG5758,FBgn0032666,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0032666,CG5758
+CG5883,FBgn0036225,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036225,CG5883
+CG5897,FBgn0036220,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036220,CG5897
+CG6055,FBgn0031918,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0031918,CG6055
+CG6337,FBgn0033873,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0033873,CG6337
+CG6347,FBgn0033874,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0033874,CG6347
+CG6357,FBgn0033875,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0033875,CG6357
+CG6403,FBgn0039453,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0039453,CG6403
+CG6749,FBgn0036040,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0036040,CG6749
+CG6788,FBgn0030880,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0030880,CG6788
+CG6867,FBgn0030887,Drosophila Matrisome Genes,ECM-affiliated,,Collagen-domain-containing Proteins,FBgn0030887,CG6867
+CG6933,FBgn0036952,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036952,CG6933
+CG6996,FBgn0036950,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036950,CG6996
+CG7017,FBgn0036951,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036951,CG7017
+CG7203,FBgn0031942,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0031942,CG7203
+CG7214,FBgn0031940,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0031940,CG7214
+CG7248,FBgn0036229,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036229,CG7248
+CG7252,FBgn0036226,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036226,CG7252
+CG7290,FBgn0036949,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036949,CG7290
+CG7298,FBgn0036948,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036948,CG7298
+CG7408,FBgn0036765,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Sulfatase,FBgn0036765,CG7408
+CG7548,FBgn0035792,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035792,CG7548
+CG7587,FBgn0038523,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0038523,Sgs5bis
+CG7714,FBgn0038645,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0038645,CG7714
+CG7715,FBgn0038646,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0038646,CG7715
+CG7763,FBgn0040503,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040503,CG7763
+CG8192,FBgn0034030,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0034030,CG8192
+CG8343,FBgn0040502,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040502,CG8343
+CG8460,FBgn0031996,Drosophila Matrisome Genes,Apical Matrix,,Chitinase,FBgn0031996,CG8460
+CG8541,FBgn0035788,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035788,CG8541
+CG8543,FBgn0035787,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035787,CG8543
+CG8642,FBgn0033312,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0033312,CG8642
+CG8927,FBgn0038405,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0038405,CG8927
+CG9500,FBgn0031804,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0031804,CG9500
+CG9572,FBgn0031089,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0031089,aspr
+CG9593,FBgn0038365,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0038365,CG9593
+CG9698,FBgn0039784,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0039784,CG9698
+ChLD3,FBgn0032598,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Chitin Deacetylase,FBgn0032598,ChLD3
+Cht10,FBgn0250907,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0250907,Cht10
+Cht11,FBgn0029913,Drosophila Matrisome Genes,Apical Matrix,,Chitinase,FBgn0029913,Cht11
+Cht12,FBgn0050293,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitin-binding-domain-containing Proteins; Chitinase,FBgn0050293,Cht12
+Cht2,FBgn0022702,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitinase,FBgn0022702,Cht2
+Cht4,FBgn0022700,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0022700,Cht4
+Cht5,FBgn0038180,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitin-binding-domain-containing Proteins; Chitinase,FBgn0038180,Cht5
+Cht6,FBgn0263132,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitin-binding-domain-containing Proteins; Chitinase,FBgn0263132,Cht6
+Cht7,FBgn0035398,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitin-binding-domain-containing Proteins; Chitinase,FBgn0035398,Cht7
+Cht8,FBgn0034580,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitin-binding-domain-containing Proteins; Chitinase,FBgn0034580,Cht8
+Cht9,FBgn0034582,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitinase,FBgn0034582,Cht9
+ckd,FBgn0035427,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0035427,ckd
+Clect27,FBgn0031629,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0287234,slf
+clos,FBgn0261016,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0261016,clos
+Col4a1,FBgn0000299,Homologs/Orthologs to Mammalian Core Matrisome Genes,Collagens,,Basement Membrane,FBgn0000299,Col4a1
+conv,FBgn0261269,Drosophila Matrisome Genes,ECM-affiliated,,,FBgn0261269,conv
+Cow,FBgn0039054,Homologs/Orthologs to Mammalian Core Matrisome Genes,Proteoglycans,,,FBgn0039054,Cow
+Cp1,FBgn0013770,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0013770,Cp1
+Cp15,FBgn0000355,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0000355,Cp15
+Cp16,FBgn0000356,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0000356,Cp16
+Cp18,FBgn0000357,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0000357,Cp18
+Cp19,FBgn0000358,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0000358,Cp19
+Cp36,FBgn0000359,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0000359,Cp36
+Cp38,FBgn0000360,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0000360,Cp38
+Cp7Fa,FBgn0014464,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0014464,Cp7Fa
+Cp7Fb,FBgn0014465,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0014465,Cp7Fb
+Cp7Fc,FBgn0014466,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0014466,Cp7Fc
+Cpr100A,FBgn0039805,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0039805,Cpr100A
+Cpr11A,FBgn0030394,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0030394,Cpr11A
+Cpr11B,FBgn0030398,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0030398,Cpr11B
+Cpr12A,FBgn0030494,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0030494,Cpr12A
+Cpr23B,FBgn0031467,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0031467,Cpr23B
+Cpr30B,FBgn0032125,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0032125,Cpr30B
+Cpr30F,FBgn0051876,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0051876,Cpr30F
+Cpr31A,FBgn0053302,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0053302,Cpr31A
+Cpr35B,FBgn0028871,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0028871,Cpr35B
+Cpr47Ea,FBgn0033597,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033597,Cpr47Ea
+Cpr47Eb,FBgn0033598,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033598,Cpr47Eb
+Cpr47Ec,FBgn0033600,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033600,Cpr47Ec
+Cpr47Ed,FBgn0033601,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0033601,Cpr47Ed
+Cpr47Ee,FBgn0033602,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033602,Cpr47Ee
+Cpr47Ef,FBgn0033603,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033603,Cpr47Ef
+Cpr47Eg,FBgn0086519,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0086519,Cpr47Eg
+Cpr49Aa,FBgn0050045,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0050045,Cpr49Aa
+Cpr49Ab,FBgn0050042,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0050042,Cpr49Ab
+Cpr49Ac,FBgn0033725,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0033725,Cpr49Ac
+Cpr49Ad,FBgn0033726,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033726,Cpr49Ad
+Cpr49Ae,FBgn0033728,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033728,Cpr49Ae
+Cpr49Af,FBgn0033729,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033729,Cpr49Af
+Cpr49Ag,FBgn0033730,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033730,Cpr49Ag
+Cpr49Ah,FBgn0033731,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033731,Cpr49Ah
+Cpr50Ca,FBgn0033867,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033867,Cpr50Ca
+Cpr50Cb,FBgn0033869,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0033869,Cpr50Cb
+Cpr51A,FBgn0033942,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0033942,Cpr51A
+Cpr56F,FBgn0034499,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0034499,Cpr56F
+Cpr57A,FBgn0034517,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0034517,Cpr57A
+Cpr5C,FBgn0029811,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0029811,Cpr5C
+Cpr60D,FBgn0050163,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0050163,Cpr60D
+Cpr62Ba,FBgn0035279,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035279,Cpr62Ba
+Cpr62Bb,FBgn0035280,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035280,Cpr62Bb
+Cpr62Bc,FBgn0035281,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035281,Cpr62Bc
+Cpr64Aa,FBgn0035510,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035510,Cpr64Aa
+Cpr64Ab,FBgn0035511,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035511,Cpr64Ab
+Cpr64Ac,FBgn0035512,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035512,Cpr64Ac
+Cpr64Ad,FBgn0035513,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035513,Cpr64Ad
+Cpr65Au,FBgn0042119,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0042119,Cpr65Au
+Cpr65Av,FBgn0052405,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0052405,Cpr65Av
+Cpr65Aw,FBgn0052404,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0052404,Cpr65Aw
+Cpr65Ax1,FBgn0086900,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0086900,Cpr65Ax1
+Cpr65Ax2,FBgn0042118,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0042118,Cpr65Ax2
+Cpr65Ay,FBgn0085300,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0085300,Cpr65Ay
+Cpr65Az,FBgn0035686,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035686,Cpr65Az
+Cpr65Ea,FBgn0035735,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035735,Cpr65Ea
+Cpr65Eb,FBgn0035736,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035736,Cpr65Eb
+Cpr65Ec,FBgn0035737,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035737,Cpr65Ec
+Cpr66Cb,FBgn0035875,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0035875,Cpr66Cb
+Cpr66D,FBgn0052029,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0052029,Cpr66D
+Cpr67B,FBgn0035985,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035985,Cpr67B
+Cpr67Fa1,FBgn0036108,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036108,Cpr67Fa1
+Cpr67Fa2,FBgn0036109,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036109,Cpr67Fa2
+Cpr67Fb,FBgn0036110,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036110,Cpr67Fb
+Cpr72Ea,FBgn0036617,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036617,Cpr72Ea
+Cpr72Eb,FBgn0036618,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036618,Cpr72Eb
+Cpr72Ec,FBgn0036619,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036619,Cpr72Ec
+Cpr73D,FBgn0036680,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0036680,Cpr73D
+Cpr76Ba,FBgn0036878,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036878,Cpr76Ba
+Cpr76Bb,FBgn0036879,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036879,Cpr76Bb
+Cpr76Bc,FBgn0036880,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036880,Cpr76Bc
+Cpr76Bd,FBgn0036881,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0036881,Cpr76Bd
+Cpr78Ca,FBgn0037067,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0037067,Cpr78Ca
+Cpr78Cb,FBgn0037068,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0037068,Cpr78Cb
+Cpr78Cc,FBgn0037069,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0037069,Cpr78Cc
+Cpr78E,FBgn0037114,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0037114,Cpr78E
+Cpr92A,FBgn0038714,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0038714,Cpr92A
+Cpr92F,FBgn0038819,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0038819,Cpr92F
+Cpr97Ea,FBgn0039480,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0039480,Cpr97Ea
+Cpr97Eb,FBgn0039481,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0039481,Cpr97Eb
+Crys,FBgn0005664,Drosophila Matrisome Genes,Apical Matrix,,R&R Chitin-binding-domain-containing Proteins,FBgn0005664,Crys
+CtsB1,FBgn0030521,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Cathepsin,FBgn0030521,CtsB
+cv-2,FBgn0000395,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0000395,cv-2
+Cys,FBgn0004629,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,,FBgn0004629,Cys
+dally,FBgn0263930,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Glypican,FBgn0263930,dally
+daw,FBgn0031461,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,TGFb Family,FBgn0031461,daw
+1-Dec,FBgn0000427,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0000427,1-Dec
+dlp,FBgn0041604,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Glypican,FBgn0041604,dlp
+dpp,FBgn0000490,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,TGFb Family,FBgn0000490,dpp
+dpy,FBgn0053196,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0053196,dpy
+dsx-c73A,FBgn0261799,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0261799,dsx-c73A
+dy,FBgn0004511,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0004511,dy
+dyl,FBgn0066365,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0066365,dyl
+Edg78E,FBgn0000551,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0000551,Edg78E
+Edg84A,FBgn0000552,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0000552,Edg84A
+Edg91,FBgn0004554,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0004554,Edg91
+egr,FBgn0033483,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0033483,egr
+Eh,FBgn0000564,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0000564,Eh
+Eig71Ee,FBgn0004592,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0004592,Eig71Ee
+eys,FBgn0031414,Homologs/Orthologs to Mammalian Core Matrisome Genes,Proteoglycans,,,FBgn0031414,eys
+fat-spondin,FBgn0026721,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Spondin,FBgn0026721,fat-spondin
+fog,FBgn0000719,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0000719,fog
+fon,FBgn0032773,Drosophila Matrisome Genes,ECM-affiliated,,Clotting,FBgn0032773,fon
+frac,FBgn0035798,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0035798,frac
+frm,FBgn0035612,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0035612,frm
+Fs,FBgn0259878,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0259878,Fs
+fs(1)M3,FBgn0005390,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0005390,fs(1)M3
+fs(1)N,FBgn0004650,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0004650,fs(1)N
+galectin,FBgn0031213,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Galectin,FBgn0031213,galectin
+Gasp,FBgn0026077,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitin-binding-domain-containing Proteins,FBgn0026077,Gasp
+gbb,FBgn0024234,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,TGFb Family,FBgn0024234,gbb
+GCS2alpha,FBgn0027588,Drosophila Matrisome Genes,ECM-affiliated,,Clotting,FBgn0027588,GCS2alpha
+gd,FBgn0000808,Drosophila Matrisome Genes,ECM Regulators,,,FBgn0000808,gd
+Gfrl,FBgn0262869,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0262869,Gfrl
+Glt,FBgn0001114,Drosophila Matrisome Genes,ECM Glycoproteins,,Basement Membrane,FBgn0001114,Glt
+grk,FBgn0001137,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,EGFR Ligand,FBgn0001137,grk
+Hasp,FBgn0032797,Drosophila Matrisome Genes,ECM-affiliated,,Synaptic Matrix,FBgn0032797,Hasp
+hh,FBgn0004644,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0004644,hh
+hig,FBgn0010114,Drosophila Matrisome Genes,ECM-affiliated,,Synaptic Matrix,FBgn0010114,hig
+Hil,FBgn0050147,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Transglutaminase,FBgn0050147,Hil
+Hml,FBgn0029167,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0029167,Hml
+Idgf1,FBgn0020416,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitinase-like,FBgn0020416,Idgf1
+Idgf2,FBgn0020415,Drosophila Matrisome Genes,Apical Matrix,,Chitinase-like,FBgn0020415,Idgf2
+Idgf3,FBgn0020414,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitinase-like,FBgn0020414,Idgf3
+Idgf4,FBgn0026415,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitinase-like,FBgn0026415,Idgf4
+Idgf5,FBgn0064237,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitinase-like,FBgn0064237,Idgf5
+Idgf6,FBgn0013763,Drosophila Matrisome Genes,Apical Matrix,,Chitinase-like,FBgn0013763,Idgf6
+Ilp1,FBgn0044051,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Insulin Family,FBgn0044051,Ilp1
+Ilp2,FBgn0036046,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Insulin Family,FBgn0036046,Ilp2
+Ilp3,FBgn0044050,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Insulin Family,FBgn0044050,Ilp3
+Ilp4,FBgn0044049,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Insulin Family,FBgn0044049,Ilp4
+Ilp5,FBgn0044048,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Insulin Family,FBgn0044048,Ilp5
+Ilp6,FBgn0044047,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Insulin Family,FBgn0044047,Ilp6
+Ilp7,FBgn0044046,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Insulin Family,FBgn0044046,Ilp7
+ImpL2,FBgn0001257,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0001257,ImpL2
+Kal1,FBgn0039155,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0039155,Kal1
+knk,FBgn0001321,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0001321,knk
+Krn,FBgn0052179,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,EGFR Ligand,FBgn0052179,Krn
+Kul,FBgn0039688,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAM,FBgn0039688,Kul
+kuz,FBgn0259984,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAM,FBgn0259984,kuz
+l(2)34Fc,FBgn0261534,Drosophila Matrisome Genes,ECM Glycoproteins,,,FBgn0261534,l(2)34Fc
+l(3)mbn,FBgn0002440,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0002440,l(3)mbn
+LanA,FBgn0002526,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Basement Membrane; Laminin,FBgn0002526,LanA
+LanB1,FBgn0261800,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Basement Membrane; Laminin,FBgn0261800,LanB1
+LanB2,FBgn0267348,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Basement Membrane; Laminin,FBgn0267348,LanB2
+Lcp1,FBgn0002531,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0002531,Lcp1
+Lcp2,FBgn0002533,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0002533,Lcp2
+Lcp3,FBgn0002534,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0002534,Lcp3
+Lcp4,FBgn0002535,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0002535,Lcp4
+Lcp6,FBgn0002537,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0002537,Lcp6
+Lcp65Aa,FBgn0020645,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020645,Lcp65Aa
+Lcp65Ab1,FBgn0020644,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0020644,Lcp65Ab1
+Lcp65Ab2,FBgn0020643,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0020643,Lcp65Ab2
+Lcp65Ac,FBgn0020642,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020642,Lcp65Ac
+Lcp65Ad,FBgn0020641,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020641,Lcp65Ad
+Lcp65Ae,FBgn0020640,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020640,Lcp65Ae
+Lcp65Af,FBgn0020639,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020639,Lcp65Af
+Lcp65Ag1,FBgn0020638,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020638,Lcp65Ag1
+Lcp65Ag2,FBgn0020637,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0020637,Lcp65Ag2
+Lcp65Ag3,FBgn0086611,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0086611,Lcp65Ag3
+Lcp9,FBgn0025578,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0025578,Lcp9
+lectin-21Ca,FBgn0040107,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040107,lectin-21Ca
+lectin-21Cb,FBgn0040106,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040106,lectin-21Cb
+lectin-22C,FBgn0259230,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0259230,lectin-22C
+lectin-24A,FBgn0040104,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040104,lectin-24A
+lectin-24Db,FBgn0040102,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040102,lectin-24Db
+lectin-28C,FBgn0040099,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040099,lectin-28C
+lectin-29Ca,FBgn0040098,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040098,lectin-29Ca
+lectin-30A,FBgn0040097,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040097,lectin-30A
+lectin-33A,FBgn0040096,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040096,lectin-33A
+lectin-37Da,FBgn0053532,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0053532,lectin-37Da
+lectin-37Db,FBgn0053533,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0053533,lectin-37Db
+lectin-46Ca,FBgn0040093,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040093,lectin-46Ca
+lectin-46Cb,FBgn0040092,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0040092,lectin-46Cb
+Lectin-galC1,FBgn0016675,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0016675,Lectin-galC1
+loh,FBgn0032252,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAMTS,FBgn0032252,loh
+Loxl1,FBgn0039848,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Lysyl Oxidase,FBgn0039848,Loxl1
+Loxl2,FBgn0034660,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Lysyl Oxidase,FBgn0034660,Loxl2
+m,FBgn0002577,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0002577,m
+magu,FBgn0262169,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0262169,magu
+Manf,FBgn0027095,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0027095,Manf
+mav,FBgn0039914,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,TGFb Family,FBgn0039914,mav
+Megf8,FBgn0031981,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0031981,Megf8
+Meltrin,FBgn0265140,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAM,FBgn0265140,Meltrin
+mey,FBgn0039851,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0039851,mey
+miple1,FBgn0027111,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0027111,miple1
+miple2,FBgn0029002,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0029002,miple2
+mmd,FBgn0259110,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAM,FBgn0259110,mmd
+Mmp1,FBgn0035049,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Matrix Metalloprotease,FBgn0035049,Mmp1
+Mmp2,FBgn0033438,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Matrix Metalloprotease,FBgn0033438,Mmp2
+Mp,FBgn0260660,Homologs/Orthologs to Mammalian Core Matrisome Genes,Collagens,,Basement Membrane,FBgn0260660,Mp
+mspo,FBgn0020269,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Spondin,FBgn0020269,mspo
+mtg,FBgn0260386,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0260386,mtg
+Muc11A,FBgn0052656,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0052656,Muc11A
+Muc12Ea,FBgn0052602,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0052602,Muc12Ea
+Muc14A,FBgn0052580,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0052580,Muc14A
+Muc18B,FBgn0031000,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0031000,Muc18B
+Muc26B,FBgn0040950,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0040950,Muc26B
+Muc30E,FBgn0053300,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0053300,Muc30E
+Muc4B,FBgn0052774,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0052774,Muc4B
+Muc55B,FBgn0034294,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0034294,Muc55B
+Muc68Ca,FBgn0036181,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0036181,Muc68Ca
+Muc68D,FBgn0036203,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0036203,Muc68D
+Muc68E,FBgn0053265,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0053265,Muc68E
+Muc91C,FBgn0038642,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0038642,Muc91C
+Muc96D,FBgn0051439,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0051439,Muc96D
+Mur11Da,FBgn0052644,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0052644,Mur11Da
+Mur18B,FBgn0030999,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0030999,Mur18B
+Mur29B,FBgn0051901,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0051901,Mur29B
+Mur2B,FBgn0025390,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0025390,Mur2B
+Mur82C,FBgn0037260,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Mucin,FBgn0037260,Mur82C
+Mur89F,FBgn0038492,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Mucin,FBgn0038492,Mur89F
+myo,FBgn0026199,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,TGFb Family,FBgn0026199,myo
+Ndg,FBgn0026403,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Basement Membrane,FBgn0026403,Ndg
+ndl,FBgn0002926,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0002926,ndl
+nec,FBgn0002930,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0002930,nec
+neo,FBgn0039704,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0039704,neo
+NetA,FBgn0015773,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Netrin,FBgn0015773,NetA
+NetB,FBgn0015774,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Netrin,FBgn0015774,NetB
+ng1,FBgn0002933,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0002933,ng1
+ng2,FBgn0010294,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0010294,ng2
+ng3,FBgn0010295,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0010295,ng3
+ng4,FBgn0010296,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0010296,ng4
+nolo,FBgn0051619,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,,FBgn0051619,nolo
+nompA,FBgn0016047,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0016047,nompA
+NT1,FBgn0261526,Drosophila Matrisome Genes,Secreted Factors,,Spaetzle Family,FBgn0261526,NT1
+nw,FBgn0283508,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0283508,nw
+nyo,FBgn0039852,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0039852,nyo
+obst-A,FBgn0031097,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Chitin-binding-domain-containing Proteins,FBgn0031097,obst-A
+obst-B,FBgn0027600,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0027600,obst-B
+obst-E,FBgn0031737,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0031737,obst-E
+obst-F,FBgn0036947,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036947,obst-F
+obst-G,FBgn0036228,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036228,obst-G
+obst-H,FBgn0053983,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0053983,obst-H
+obst-I,FBgn0052304,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0052304,obst-I
+obst-J,FBgn0036940,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0036940,obst-J
+Pburs,FBgn0264810,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0264810,Pburs
+Pcp,FBgn0003046,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0003046,Pcp
+Peritrophin-15a,FBgn0040959,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0040959,Peritrophin-15a
+Peritrophin-15b,FBgn0040958,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0040958,Peritrophin-15b
+Peritrophin-A,FBgn0022770,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0022770,Peritrophin-A
+Pex23,FBgn0052226,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Galectin,FBgn0052226,Pex23
+PH4alphaEFB,FBgn0039776,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0039776,PH4alphaEFB
+PH4alphaMP,FBgn0026190,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0026190,PH4alphaMP
+PH4alphaNE1,FBgn0039780,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0039780,PH4alphaNE1
+PH4alphaNE2,FBgn0039783,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0039783,PH4alphaNE2
+PH4alphaNE3,FBgn0051017,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051017,PH4alphaNE3
+PH4alphaPV,FBgn0051015,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051015,PH4alphaPV
+PH4alphaSG1,FBgn0051014,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0051014,PH4alphaSG1
+PH4alphaSG2,FBgn0039779,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Prolyl 4-Hydroxylase,FBgn0039779,PH4alphaSG2
+pio,FBgn0020521,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0020521,pio
+pip,FBgn0003089,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0003089,pip
+PlexA,FBgn0025741,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Plexin,FBgn0025741,PlexA
+PlexB,FBgn0025740,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Plexin,FBgn0025740,PlexB
+Plod,FBgn0036147,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Lysyl Hydroxylase,FBgn0036147,Plod
+Ppn,FBgn0003137,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0003137,Ppn
+prc,FBgn0028573,Drosophila Matrisome Genes,Collagens,,Basement Membrane,FBgn0028573,prc
+psd,FBgn0086265,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0086265,psd
+Ptth,FBgn0013323,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0013323,Ptth
+Pvf1,FBgn0030964,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,PDGF/VEGF Family,FBgn0030964,Pvf1
+Pvf2,FBgn0031888,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,PDGF/VEGF Family,FBgn0031888,Pvf2
+Pvf3,FBgn0085407,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,PDGF/VEGF Family,FBgn0085407,Pvf3
+Pxd,FBgn0004577,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0004577,Pxd
+Pxn,FBgn0011828,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0011828,Pxn
+Pxt,FBgn0261987,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Chorion,FBgn0261987,Pxt
+pyr,FBgn0033649,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,FGF Family,FBgn0033649,pyr
+Reck,FBgn0036463,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,,FBgn0036463,Reck
+resilin,FBgn0034157,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; R&R Chitin-binding-domain-containing Proteins,FBgn0034157,resilin
+retinin,FBgn0040074,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0040074,retinin
+rgn,FBgn0261258,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0261258,rgn
+sca,FBgn0003326,Drosophila Matrisome Genes,ECM-affiliated,,Fibrinogen-domain-containing Proteins,FBgn0003326,sca
+scw,FBgn0005590,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,TGFb Family,FBgn0005590,scw
+Sdc,FBgn0010415,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Syndecan,FBgn0010415,Sdc
+Sema1a,FBgn0011259,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Semaphorin,FBgn0011259,Sema1a
+Sema1b,FBgn0016059,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Semaphorin,FBgn0016059,Sema1b
+Sema2a,FBgn0011260,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Semaphorin,FBgn0011260,Sema2a
+Sema2b,FBgn0264273,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Semaphorin,FBgn0264273,Sema2b
+Sema5c,FBgn0284221,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Semaphorin,FBgn0284221,Sema5c
+serp,FBgn0260653,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Chitin Deacetylase,FBgn0260653,serp
+Sgs1,FBgn0003372,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0003372,Sgs1
+Sgs3,FBgn0003373,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0003373,Sgs3
+Sgs4,FBgn0003374,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0003374,Sgs4
+Sgs5,FBgn0003375,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0003375,Sgs5
+Sgs8,FBgn0003378,Drosophila Matrisome Genes,Apical Matrix,,Glue,FBgn0003378,Sgs8
+shf,FBgn0003390,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0003390,shf
+sli,FBgn0264089,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0264089,sli
+slow,FBgn0035539,Drosophila Matrisome Genes,ECM-affiliated,,,FBgn0035539,slow
+sog,FBgn0003463,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0003463,sog
+sona,FBgn0034903,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAMTS,FBgn0034903,sona
+SP2353,FBgn0034070,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0034070,SP2353
+SPARC,FBgn0026562,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0026562,SPARC
+spi,FBgn0005672,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,EGFR Ligand,FBgn0005672,spi
+Spn100A,FBgn0039795,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0039795,Spn100A
+Spn27A,FBgn0028990,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0028990,Spn27A
+Spn28B,FBgn0083141,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0083141,Spn28B
+Spn28Da,FBgn0051902,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0051902,Spn28Da
+Spn28Db,FBgn0053121,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0053121,Spn28Db
+Spn28Dc,FBgn0031973,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0031973,Spn28Dc
+Spn28F,FBgn0028987,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0028987,Spn28F
+Spn31A,FBgn0032178,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0032178,Spn31A
+Spn38F,FBgn0028986,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0028986,Spn38F
+Spn42Da,FBgn0265137,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0265137,Spn42Da
+Spn42Db,FBgn0033112,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0033112,Spn42Db
+Spn42Dc,FBgn0033113,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0033113,Spn42Dc
+Spn42Dd,FBgn0028988,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0028988,Spn42Dd
+Spn42De,FBgn0033115,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0033115,Spn42De
+Spn43Aa,FBgn0024294,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0024294,Spn43Aa
+Spn43Ab,FBgn0024293,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0024293,Spn43Ab
+Spn43Ad,FBgn0044011,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0044011,Spn43Ad
+Spn47C,FBgn0033574,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0033574,Spn47C
+Spn53F,FBgn0034195,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0034195,Spn53F
+Spn55B,FBgn0028983,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0028983,Spn55B
+Spn75F,FBgn0052203,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0052203,Spn75F
+Spn77Ba,FBgn0262057,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0262057,Spn77Ba
+Spn77Bb,FBgn0036969,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0036969,Spn77Bb
+Spn77Bc,FBgn0036970,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0036970,Spn77Bc
+Spn85F,FBgn0037772,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0037772,Spn85F
+Spn88Ea,FBgn0028984,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0028984,Spn88Ea
+Spn88Eb,FBgn0038299,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Serpin,FBgn0038299,Spn88Eb
+spz,FBgn0003495,Drosophila Matrisome Genes,Secreted Factors,,Spaetzle Family,FBgn0003495,spz
+spz3,FBgn0031959,Drosophila Matrisome Genes,Secreted Factors,,Spaetzle Family,FBgn0031959,spz3
+spz4,FBgn0032362,Drosophila Matrisome Genes,Secreted Factors,,Spaetzle Family,FBgn0032362,spz4
+spz5,FBgn0035379,Drosophila Matrisome Genes,Secreted Factors,,Spaetzle Family,FBgn0035379,spz5
+spz6,FBgn0035056,Drosophila Matrisome Genes,Secreted Factors,,Spaetzle Family,FBgn0035056,spz6
+ssp7,FBgn0052667,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0052667,ssp7
+stl,FBgn0086408,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAMTS,FBgn0086408,stl
+Sulf1,FBgn0040271,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Sulfatase,FBgn0040271,Sulf1
+Swim,FBgn0034709,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0034709,Swim
+Tace,FBgn0039734,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,ADAM,FBgn0039734,Tace
+Tb,FBgn0243586,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0243586,Tb
+Ten-a,FBgn0267001,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Teneurin,FBgn0267001,Ten-a
+Ten-m,FBgn0004449,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,Teneurin,FBgn0004449,Ten-m
+teq,FBgn0023479,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0023479,teq
+tfc,FBgn0035199,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM-affiliated,,C-type Lectin,FBgn0035199,tfc
+Tg,FBgn0031975,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,Transglutaminase,FBgn0031975,Tg
+ths,FBgn0033652,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,FGF Family,FBgn0033652,ths
+thw,FBgn0037487,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins,FBgn0037487,thw
+Tig,FBgn0011722,Drosophila Matrisome Genes,ECM Glycoproteins,,,FBgn0011722,Tig
+Timp,FBgn0025879,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,,FBgn0025879,Timp
+tld,FBgn0003719,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,,FBgn0003719,tld
+tnc,FBgn0039257,Drosophila Matrisome Genes,ECM Glycoproteins,,,FBgn0039257,tnc
+tok,FBgn0004885,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,ECM Regulators,,,FBgn0004885,tok
+trk,FBgn0003751,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0003751,trk
+trol,FBgn0284408,Homologs/Orthologs to Mammalian Core Matrisome Genes,Proteoglycans,,Basement Membrane,FBgn0284408,trol
+tsg,FBgn0003865,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,,FBgn0003865,tsg
+tsl,FBgn0003867,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0003867,tsl
+Tsp,FBgn0031850,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,,FBgn0031850,Tsp
+Twdlalpha,FBgn0052574,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0052574,Twdlalpha
+TwdlB,FBgn0039436,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039436,TwdlB
+Twdlbeta,FBgn0033658,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0033658,Twdlbeta
+TwdlC,FBgn0039469,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039469,TwdlC
+TwdlD,FBgn0039444,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039444,TwdlD
+TwdlE,FBgn0031957,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0031957,TwdlE
+TwdlF,FBgn0037224,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0037224,TwdlF
+TwdlG,FBgn0037225,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0037225,TwdlG
+TwdlH,FBgn0051080,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0051080,TwdlH
+TwdlJ,FBgn0039440,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039440,TwdlJ
+TwdlK,FBgn0039439,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039439,TwdlK
+TwdlL,FBgn0039437,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039437,TwdlL
+TwdlM,FBgn0039434,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039434,TwdlM
+TwdlN,FBgn0039441,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039441,TwdlN
+TwdlO,FBgn0039438,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039438,TwdlO
+TwdlP,FBgn0039435,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039435,TwdlP
+TwdlQ,FBgn0039448,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039448,TwdlQ
+TwdlR,FBgn0051081,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0051081,TwdlR
+TwdlS,FBgn0039443,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0039443,TwdlS
+TwdlT,FBgn0029170,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0029170,TwdlT
+TwdlV,FBgn0037227,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0037227,TwdlV
+TwdlW,FBgn0038487,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0038487,TwdlW
+TwdlX,FBgn0052571,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0052571,TwdlX
+TwdlY,FBgn0052570,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0052570,TwdlY
+TwdlZ,FBgn0052569,Drosophila Matrisome Genes,Apical Matrix,,Cuticle; Tweedle,FBgn0052569,TwdlZ
+tyn,FBgn0284435,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0284435,tyn
+upd1,FBgn0004956,Drosophila Matrisome Genes,Secreted Factors,,Unpaired Family,FBgn0004956,upd1
+upd2,FBgn0030904,Drosophila Matrisome Genes,Secreted Factors,,Unpaired Family,FBgn0030904,upd2
+upd3,FBgn0053542,Drosophila Matrisome Genes,Secreted Factors,,Unpaired Family,FBgn0053542,upd3
+Vago,FBgn0030262,Drosophila Matrisome Genes,Secreted Factors,,,FBgn0030262,Vago
+Vajk1,FBgn0028938,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0028938,Vajk1
+Vajk2,FBgn0032538,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0032538,Vajk2
+Vajk3,FBgn0028544,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0028544,Vajk3
+Vajk4,FBgn0050101,Drosophila Matrisome Genes,Apical Matrix,,Cuticle,FBgn0050101,Vajk4
+verm,FBgn0261341,Drosophila Matrisome Genes,Apical Matrix,,Chitin-binding-domain-containing Proteins; Chitin Deacetylase,FBgn0261341,verm
+vkg,FBgn0016075,Homologs/Orthologs to Mammalian Core Matrisome Genes,Collagens,,Basement Membrane,FBgn0016075,vkg
+Vm26Aa,FBgn0003979,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0003979,Vm26Aa
+Vm26Ab,FBgn0003980,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0003980,Vm26Ab
+Vm26Ac,FBgn0086266,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0086266,Vm26Ac
+Vm32E,FBgn0014076,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0014076,Vm32E
+Vm34Ca,FBgn0003983,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0003983,Vm34Ca
+Vml,FBgn0085362,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0085362,Vml
+vn,FBgn0003984,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,EGFR Ligand,FBgn0003984,vn
+wb,FBgn0261563,Homologs/Orthologs to Mammalian Core Matrisome Genes,ECM Glycoproteins,,Basement Membrane; Laminin,FBgn0261563,wb
+wg,FBgn0284084,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Wnt Family,FBgn0284084,wg
+Wnt10,FBgn0031903,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Wnt Family,FBgn0031903,Wnt10
+Wnt2,FBgn0004360,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Wnt Family,FBgn0004360,Wnt2
+Wnt4,FBgn0010453,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Wnt Family,FBgn0010453,Wnt4
+Wnt5,FBgn0010194,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Wnt Family,FBgn0010194,Wnt5
+Wnt6,FBgn0031902,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Wnt Family,FBgn0031902,Wnt6
+wntD,FBgn0038134,Homologs/Orthologs to Mammalian Matrisome-Associated Genes,Secreted Factors,,Wnt Family,FBgn0038134,wntD
+yellow-g,FBgn0041709,Drosophila Matrisome Genes,Apical Matrix,,Eggshell; Vitelline Membrane,FBgn0041709,yellow-g
+zye,FBgn0036985,Drosophila Matrisome Genes,Apical Matrix,,Zona Pellucida-domain-containing Proteins,FBgn0036985,zye

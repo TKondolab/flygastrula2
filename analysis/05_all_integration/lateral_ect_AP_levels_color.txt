@@ -1,0 +1,6 @@
+PS2	skyblue3
+abdominal_odd	plum3
+abdominal_even	olivedrab3
+abdominal	darkslateblue
+PS13	goldenrod3
+amnioserosa	gray75

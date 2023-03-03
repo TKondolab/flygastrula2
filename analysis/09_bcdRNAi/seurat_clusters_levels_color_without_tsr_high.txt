@@ -1,0 +1,16 @@
+Trunk_dorsal_ectoderm	olivedrab1
+Trunk_lateral_neuroectoderm	olivedrab3
+Trunk_medial_neuroectoderm	olivedrab4
+Dorsal_ectoderm_PS13	chartreuse4
+Lateral_ectoderm_PS13	forestgreen
+Ectoderm_PS14	darkgreen
+Amnioserosa	burlywood2
+Dorsal_hindgut	goldenrod1
+Hindgut	goldenrod3
+Posterior_midgut	coral3
+Midline_cells	magenta
+Trunk_mesoderm	plum3
+Trunk_mesoderm_eve+	orchid3
+Mesoderm_PS13	orchid4
+Posterior_mesoderm	deeppink4
+Pole_cells	gray50

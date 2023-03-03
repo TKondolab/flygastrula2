@@ -1,0 +1,384 @@
+Gene,FBgn,Sub-group,Sub-sub-group,Confidence,Comments,validated_id,current_symbol
+aft,FBgn0026309,FGFR signaling pathway,other,,,FBgn0026309,aft
+Akt1,FBgn0010379,INSULIN signaling pathway,other,,,FBgn0010379,Akt1
+AMPKalpha,FBgn0023169,INSULIN signaling pathway,other,,,FBgn0023169,AMPKalpha
+aop,FBgn0000097,EGFR and PVR RTK signaling pathway,TF,,,FBgn0000097,aop
+aop,FBgn0000097,FGFR signaling pathway,TF,,,FBgn0000097,aop
+aop,FBgn0000097,TNF alpha signaling pathway,TF,,,FBgn0000097,aop
+aos,FBgn0004569,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0004569,aos
+Apc,FBgn0015589,WNT signaling pathway,other,,,FBgn0015589,Apc
+Apc2,FBgn0026598,WNT signaling pathway,other,,,FBgn0026598,Apc2
+aph-1,FBgn0031458,NOTCH signaling pathway,other,,,FBgn0031458,aph-1
+arm,FBgn0000117,WNT signaling pathway,TF,,,FBgn0000117,arm
+arr,FBgn0000119,WNT signaling pathway,receptor,,,FBgn0000119,arr
+Axn,FBgn0026597,WNT signaling pathway,other,,,FBgn0026597,Axn
+babo,FBgn0011300,TGF beta signaling pathway,receptor,,,FBgn0011300,babo
+ben,FBgn0000173,Imd pathway,,,,FBgn0000173,ben
+bib,FBgn0000180,NOTCH signaling pathway,other,,,FBgn0000180,bib
+bnl,FBgn0014135,FGFR signaling pathway,ligand,,,FBgn0014135,bnl
+boca,FBgn0004132,WNT signaling pathway,other,,,FBgn0004132,boca
+Brd,FBgn0000216,NOTCH signaling pathway,other,,,FBgn0000216,Brd
+brn,FBgn0000221,NOTCH signaling pathway,other,,,FBgn0000221,brn
+bsk,FBgn0000229,Imd pathway,,,,FBgn0000229,bsk
+bsk,FBgn0000229,Planar Cell Polarity pathway,,,,FBgn0000229,bsk
+bsk,FBgn0000229,TNF alpha signaling pathway,other,,,FBgn0000229,bsk
+Btk29A,FBgn0003502,TNF alpha signaling pathway,other,,,FBgn0003502,Btk29A
+btl,FBgn0005592,FGFR signaling pathway,receptor,,,FBgn0285896,btl
+cact,FBgn0000250,Toll pathway,,,,FBgn0000250,cact
+CAP,FBgn0033504,INSULIN signaling pathway,other,,,FBgn0033504,CAP
+casp,FBgn0034068,Imd pathway,,,,FBgn0034068,casp
+Cbl,FBgn0020224,EGFR and PVR RTK signaling pathway,other,,,FBgn0020224,Cbl
+Cdc42,FBgn0010341,TNF alpha signaling pathway,other,,,FBgn0010341,Cdc42
+CG10176,FBgn0032682,TNF alpha signaling pathway,receptor,,"submitted by user, PMID=25874673",FBgn0032682,grnd
+chico,FBgn0024248,INSULIN signaling pathway,other,,,FBgn0024248,chico
+ci,FBgn0004859,HEDGEHOG signaling pathway,TF,,,FBgn0004859,ci
+Cka,FBgn0044323,Imd pathway,,,,FBgn0044323,Cka
+Cka,FBgn0044323,Planar Cell Polarity pathway,,,,FBgn0044323,Cka
+Cka,FBgn0044323,TNF alpha signaling pathway,other,,,FBgn0044323,Cka
+CkIalpha,FBgn0015024,WNT signaling pathway,other,,,FBgn0015024,CkIalpha
+CkIIalpha,FBgn0264492,Circadian Clock pathway,NCore,,,FBgn0264492,CkIIalpha
+CkIIbeta,FBgn0000259,Circadian Clock pathway,NCore,,,FBgn0000259,CkIIbeta
+Clk,FBgn0023076,Circadian Clock pathway,Core,,,FBgn0023076,Clk
+cnk,FBgn0021818,EGFR and PVR RTK signaling pathway,other,,,FBgn0286070,cnk
+cnk,FBgn0021818,FGFR signaling pathway,other,,,FBgn0286070,cnk
+cno,FBgn0259212,TNF alpha signaling pathway,other,,,FBgn0259212,cno
+cos,FBgn0000352,HEDGEHOG signaling pathway,other,,,FBgn0000352,cos
+cry,FBgn0025680,Circadian Clock pathway,Core,,,FBgn0025680,cry
+csw,FBgn0000382,EGFR and PVR RTK signaling pathway,other,,,FBgn0000382,csw
+Cul1,FBgn0015509,Imd pathway,,,,FBgn0015509,Cul1
+cwo,FBgn0259938,Circadian Clock pathway,Core,,,FBgn0259938,cwo
+cyc,FBgn0023094,Circadian Clock pathway,Core,,,FBgn0023094,cyc
+d,FBgn0262029,HIPPO signaling pathway,other,,,FBgn0262029,d
+d,FBgn0262029,Planar Cell Polarity pathway,,,,FBgn0262029,d
+DAAM,FBgn0025641,Planar Cell Polarity pathway,,,,FBgn0025641,DAAM
+Dad,FBgn0020493,TGF beta signaling pathway,TF,,,FBgn0020493,Dad
+dally,FBgn0263930,HEDGEHOG signaling pathway,receptor,,,FBgn0263930,dally
+dally,FBgn0263930,WNT signaling pathway,receptor,,,FBgn0263930,dally
+dco,FBgn0002413,Circadian Clock pathway,Core,,,FBgn0002413,dco
+dco,FBgn0002413,HIPPO signaling pathway,other,,,FBgn0002413,dco
+dgo,FBgn0086898,Planar Cell Polarity pathway,,,,FBgn0086898,dgo
+Diap2,FBgn0015247,Imd pathway,,,,FBgn0015247,Diap2
+Dif,FBgn0011274,Toll pathway,,,,FBgn0011274,Dif
+Dl,FBgn0000463,NOTCH signaling pathway,ligand,,,FBgn0000463,Dl
+dl,FBgn0260632,Toll pathway,,,,FBgn0260632,dl
+dlp,FBgn0041604,HEDGEHOG signaling pathway,receptor,,,FBgn0041604,dlp
+dlp,FBgn0041604,WNT signaling pathway,receptor,,,FBgn0041604,dlp
+dm,FBgn0262656,INSULIN signaling pathway,TF,,,FBgn0262656,Myc
+dnr1,FBgn0260866,Imd pathway,,,,FBgn0260866,dnr1
+dock,FBgn0010583,EGFR and PVR RTK signaling pathway,other,,,FBgn0010583,dock
+dome,FBgn0043903,JAK/STAT signaling pathway,receptor,,,FBgn0043903,dome
+dos,FBgn0016794,EGFR and PVR RTK signaling pathway,other,,,FBgn0016794,dos
+dpp,FBgn0000490,TGF beta signaling pathway,ligand,,,FBgn0000490,dpp
+Dredd,FBgn0020381,Imd pathway,,,,FBgn0020381,Dredd
+drk,FBgn0004638,EGFR and PVR RTK signaling pathway,other,,,FBgn0004638,drk
+ds,FBgn0000497,HIPPO signaling pathway,ligand,,,FBgn0284247,ds
+ds,FBgn0000497,Planar Cell Polarity pathway,,,,FBgn0284247,ds
+dsf,FBgn0015381,Nuclear hormone receptor,,,,FBgn0015381,dsf
+dsh,FBgn0000499,Planar Cell Polarity pathway,,,,FBgn0000499,dsh
+dsh,FBgn0000499,WNT signaling pathway,other,,,FBgn0000499,dsh
+Dsor1,FBgn0010269,EGFR and PVR RTK signaling pathway,other,,,FBgn0010269,Dsor1
+Dsp1,FBgn0278608,Imd pathway,,,,FBgn0278608,Dsp1
+dx,FBgn0000524,NOTCH signaling pathway,other,,,FBgn0000524,dx
+E(spl)m2-BFM,FBgn0002592,NOTCH signaling pathway,TF,,,FBgn0002592,E(spl)m2-BFM
+E(spl)m3-HLH,FBgn0002609,NOTCH signaling pathway,TF,,,FBgn0002609,E(spl)m3-HLH
+E(spl)m4-BFM,FBgn0002629,NOTCH signaling pathway,TF,,,FBgn0002629,E(spl)m4-BFM
+E(spl)m5-HLH,FBgn0002631,NOTCH signaling pathway,TF,,,FBgn0002631,E(spl)m5-HLH
+E(spl)m6-BFM,FBgn0002632,NOTCH signaling pathway,TF,,,FBgn0002632,E(spl)m6-BFM
+E(spl)m7-HLH,FBgn0002633,NOTCH signaling pathway,TF,,,FBgn0002633,E(spl)m7-HLH
+E(spl)m8-HLH,FBgn0000591,NOTCH signaling pathway,TF,,,FBgn0000591,E(spl)m8-HLH
+E(spl)malpha-BFM,FBgn0002732,NOTCH signaling pathway,TF,,,FBgn0002732,E(spl)malpha-BFM
+E(spl)mbeta-HLH,FBgn0002733,NOTCH signaling pathway,TF,,,FBgn0002733,E(spl)mbeta-HLH
+E(spl)mdelta-HLH,FBgn0002734,NOTCH signaling pathway,TF,,,FBgn0002734,E(spl)mdelta-HLH
+E(spl)mgamma-HLH,FBgn0002735,NOTCH signaling pathway,TF,,,FBgn0002735,E(spl)mgamma-HLH
+ea,FBgn0000533,Toll pathway,,,,FBgn0000533,ea
+EcR,FBgn0000546,Nuclear hormone receptor,,,,FBgn0000546,EcR
+Egfr,FBgn0003731,EGFR and PVR RTK signaling pathway,receptor,,,FBgn0003731,Egfr
+egr,FBgn0033483,TNF alpha signaling pathway,ligand,,,FBgn0033483,egr
+eIF-4E,FBgn0015218,INSULIN signaling pathway,other,,,FBgn0015218,eIF4E1
+Eip75B,FBgn0000568,Nuclear hormone receptor,,,,FBgn0000568,Eip75B
+Eip78C,FBgn0004865,Nuclear hormone receptor,,,,FBgn0004865,Eip78C
+ERR,FBgn0035849,Nuclear hormone receptor,,,,FBgn0035849,ERR
+Ets21C,FBgn0005660,EGFR and PVR RTK signaling pathway,TF,,"submitted by user, PMID = 26683696",FBgn0005660,Ets21C
+ex,FBgn0004583,HIPPO signaling pathway,other,,,FBgn0004583,ex
+Fadd,FBgn0038928,Imd pathway,,,,FBgn0038928,Fadd
+fj,FBgn0000658,HIPPO signaling pathway,other,,,FBgn0000658,fj
+fj,FBgn0000658,Planar Cell Polarity pathway,,,,FBgn0000658,fj
+Flo1,FBgn0024754,INSULIN signaling pathway,other,,,FBgn0024754,Flo1
+flw,FBgn0000711,Circadian Clock pathway,NCore,,,FBgn0000711,flw
+flw,FBgn0000711,Planar Cell Polarity pathway,,,,FBgn0000711,flw
+fng,FBgn0011591,NOTCH signaling pathway,other,,,FBgn0011591,fng
+foxo,FBgn0038197,INSULIN signaling pathway,TF,,,FBgn0038197,foxo
+frtz,FBgn0086698,Planar Cell Polarity pathway,,,,FBgn0086698,frtz
+ft,FBgn0001075,HIPPO signaling pathway,receptor,,,FBgn0001075,ft
+ft,FBgn0001075,Planar Cell Polarity pathway,,,,FBgn0001075,ft
+ftz-f1,FBgn0001078,Nuclear hormone receptor,,,,FBgn0001078,ftz-f1
+fu,FBgn0001079,HEDGEHOG signaling pathway,other,,,FBgn0001079,fu
+fy,FBgn0001084,Planar Cell Polarity pathway,,,,FBgn0001084,fy
+fz,FBgn0001085,Planar Cell Polarity pathway,,,,FBgn0001085,fz
+fz,FBgn0001085,WNT signaling pathway,receptor,,,FBgn0001085,fz
+fz2,FBgn0016797,WNT signaling pathway,receptor,,,FBgn0016797,fz2
+fz3,FBgn0027343,WNT signaling pathway,receptor,,,FBgn0027343,fz3
+fz4,FBgn0027342,WNT signaling pathway,receptor,,,FBgn0027342,fz4
+gbb,FBgn0024234,TGF beta signaling pathway,ligand,,,FBgn0024234,gbb
+Gcn5,FBgn0020388,Imd pathway,,,,FBgn0020388,Gcn5
+gd,FBgn0000808,Toll pathway,,,,FBgn0000808,gd
+gig,FBgn0005198,INSULIN signaling pathway,other,,,FBgn0005198,gig
+GNBP1,FBgn0040323,Toll pathway,,,,FBgn0040323,GNBP1
+GNBP3,FBgn0040321,Toll pathway,,,,FBgn0040321,GNBP3
+grass,FBgn0039494,Toll pathway,,,,FBgn0039494,grass
+grh,FBgn0259211,FGFR signaling pathway,other,,,FBgn0259211,grh
+grk,FBgn0001137,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0001137,grk
+Gug,FBgn0010825,Planar Cell Polarity pathway,,,,FBgn0010825,Gug
+hep,FBgn0010303,Imd pathway,,,,FBgn0010303,hep
+hep,FBgn0010303,Planar Cell Polarity pathway,,,,FBgn0010303,hep
+hep,FBgn0010303,TNF alpha signaling pathway,other,,,FBgn0010303,hep
+Hey,FBgn0027788,NOTCH signaling pathway,TF,,,FBgn0027788,Hey
+hh,FBgn0004644,HEDGEHOG signaling pathway,ligand,,,FBgn0004644,hh
+Hnf4,FBgn0004914,Nuclear hormone receptor,,,,FBgn0004914,Hnf4
+hop,FBgn0004864,JAK/STAT signaling pathway,other,,,FBgn0004864,hop
+hpo,FBgn0261456,HIPPO signaling pathway,other,,,FBgn0261456,hpo
+Hr38,FBgn0014859,Nuclear hormone receptor,,,,FBgn0014859,Hr38
+Hr39,FBgn0261239,Nuclear hormone receptor,,,,FBgn0261239,Hr39
+Hr4,FBgn0264562,Nuclear hormone receptor,,,,FBgn0264562,Hr4
+Hr46,FBgn0000448,Nuclear hormone receptor,,,,FBgn0000448,Hr3
+Hr51,FBgn0034012,Nuclear hormone receptor,,,,FBgn0034012,Hr51
+Hr78,FBgn0015239,Nuclear hormone receptor,,,,FBgn0015239,Hr78
+Hr83,FBgn0037436,Nuclear hormone receptor,,,,FBgn0037436,Hr83
+Hr96,FBgn0015240,Nuclear hormone receptor,,,,FBgn0015240,Hr96
+htl,FBgn0010389,FGFR signaling pathway,receptor,,,FBgn0010389,htl
+if,FBgn0001250,FGFR signaling pathway,other,,,FBgn0001250,if
+Ilp1,FBgn0044051,INSULIN signaling pathway,ligand,,,FBgn0044051,Ilp1
+Ilp2,FBgn0036046,INSULIN signaling pathway,ligand,,,FBgn0036046,Ilp2
+Ilp3,FBgn0044050,INSULIN signaling pathway,ligand,,,FBgn0044050,Ilp3
+Ilp4,FBgn0044049,INSULIN signaling pathway,ligand,,,FBgn0044049,Ilp4
+Ilp5,FBgn0044048,INSULIN signaling pathway,ligand,,,FBgn0044048,Ilp5
+Ilp6,FBgn0044047,INSULIN signaling pathway,ligand,,,FBgn0044047,Ilp6
+Ilp7,FBgn0044046,INSULIN signaling pathway,ligand,,,FBgn0044046,Ilp7
+imd,FBgn0013983,Imd pathway,,,,FBgn0013983,imd
+in,FBgn0001259,Planar Cell Polarity pathway,,,,FBgn0001259,in
+InR,FBgn0013984,INSULIN signaling pathway,receptor,,,FBgn0283499,InR
+ird5,FBgn0024222,Imd pathway,,,,FBgn0024222,IKKbeta
+jet,FBgn0031652,Circadian Clock pathway,Core,,,FBgn0031652,jet
+Jra,FBgn0001291,Imd pathway,,,,FBgn0001291,Jra
+Jra,FBgn0001291,Planar Cell Polarity pathway,,,,FBgn0001291,Jra
+Jra,FBgn0001291,TNF alpha signaling pathway,TF,,,FBgn0001291,Jra
+kay,FBgn0001297,Imd pathway,,,,FBgn0001297,kay
+kay,FBgn0001297,Planar Cell Polarity pathway,,,,FBgn0001297,kay
+kay,FBgn0001297,TNF alpha signaling pathway,TF,,,FBgn0001297,kay
+Kaz-m1,FBgn0002578,NOTCH signaling pathway,TF,,,FBgn0002578,Kaz-m1
+kek1,FBgn0015399,EGFR and PVR RTK signaling pathway,other,,,FBgn0015399,kek1
+ken,FBgn0011236,JAK/STAT signaling pathway,TF,,,FBgn0011236,ken
+key,FBgn0041205,Imd pathway,,,,FBgn0041205,key
+kibra,FBgn0262127,HIPPO signaling pathway,other,,,FBgn0262127,kibra
+Krn,FBgn0052179,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0052179,Krn
+ksr,FBgn0015402,EGFR and PVR RTK signaling pathway,other,,,FBgn0015402,ksr
+ksr,FBgn0015402,FGFR signaling pathway,other,,,FBgn0015402,ksr
+kuz,FBgn0259984,NOTCH signaling pathway,other,,,FBgn0259984,kuz
+lgs,FBgn0039907,WNT signaling pathway,TF,,,FBgn0039907,lgs
+lkb1,FBgn0038167,INSULIN signaling pathway,other,,,FBgn0038167,Lkb1
+lolal,FBgn0022238,FGFR signaling pathway,other,,,FBgn0022238,lolal
+Mad,FBgn0011648,TGF beta signaling pathway,TF,,,FBgn0011648,Mad
+mam,FBgn0002643,NOTCH signaling pathway,TF,,,FBgn0002643,mam
+mats,FBgn0038965,HIPPO signaling pathway,other,,,FBgn0038965,mats
+Mbs,FBgn0005536,Planar Cell Polarity pathway,,,,FBgn0005536,Mbs
+Med,FBgn0011655,TGF beta signaling pathway,TF,,,FBgn0011655,Med
+Mekk1,FBgn0024329,TNF alpha signaling pathway,other,,,FBgn0024329,Mekk1
+Mer,FBgn0086384,HIPPO signaling pathway,other,,,FBgn0086384,Mer
+mew,FBgn0004456,FGFR signaling pathway,other,,,FBgn0004456,mew
+mib1,FBgn0263601,NOTCH signaling pathway,other,,,FBgn0263601,mib1
+Mkp,FBgn0083992,EGFR and PVR RTK signaling pathway,other,,,FBgn0083992,Mkp
+Mkp3,FBgn0036844,EGFR and PVR RTK signaling pathway,other,,,FBgn0036844,Mkp3
+Mlc-c,FBgn0004687,Planar Cell Polarity pathway,,,,FBgn0004687,Mlc-c
+Mmp2,FBgn0033438,FGFR signaling pathway,other,,,FBgn0033438,Mmp2
+mnd,FBgn0002778,Circadian Clock pathway,NCore,,,FBgn0002778,mnd
+mnd,FBgn0002778,Toll pathway,,,,FBgn0002778,mnd
+msk,FBgn0026252,EGFR and PVR RTK signaling pathway,other,,,FBgn0026252,msk
+msn,FBgn0010909,Planar Cell Polarity pathway,,,,FBgn0010909,msn
+msn,FBgn0010909,TNF alpha signaling pathway,other,,,FBgn0010909,msn
+mts,FBgn0004177,Circadian Clock pathway,NCore,,,FBgn0004177,mts
+mwh,FBgn0264272,Planar Cell Polarity pathway,,,,FBgn0264272,mwh
+Myd88,FBgn0033402,Toll pathway,,,,FBgn0033402,Myd88
+MYPT-75D,FBgn0036801,Planar Cell Polarity pathway,,,,FBgn0036801,MYPT-75D
+mys,FBgn0004657,FGFR signaling pathway,other,,,FBgn0004657,mys
+N,FBgn0004647,NOTCH signaling pathway,receptor,,,FBgn0004647,N
+nct,FBgn0039234,NOTCH signaling pathway,other,,,FBgn0039234,Nct
+nec,FBgn0002930,Toll pathway,,,,FBgn0002930,nec
+nej,FBgn0261617,WNT signaling pathway,TF,,,FBgn0261617,nej
+neur,FBgn0002932,NOTCH signaling pathway,other,,,FBgn0002932,neur
+nkd,FBgn0002945,WNT signaling pathway,other,,,FBgn0002945,nkd
+nmo,FBgn0011817,Circadian Clock pathway,NCore,,,FBgn0011817,nmo
+Notum,FBgn0044028,WNT signaling pathway,other,,,FBgn0044028,Notum
+numb,FBgn0002973,NOTCH signaling pathway,other,,,FBgn0002973,numb
+O-fut1,FBgn0033901,NOTCH signaling pathway,other,,,FBgn0033901,O-fut1
+pan,FBgn0085432,WNT signaling pathway,TF,,,FBgn0085432,pan
+Pdk1,FBgn0020386,INSULIN signaling pathway,other,,,FBgn0020386,Pdk1
+Pdp1,FBgn0016694,Circadian Clock pathway,Core,,,FBgn0016694,Pdp1
+per,FBgn0003068,Circadian Clock pathway,Core,,,FBgn0003068,per
+Pex1,FBgn0013563,FGFR signaling pathway,other,,,FBgn0013563,Pex1
+PGRP-LB,FBgn0037906,Imd pathway,,,,FBgn0037906,PGRP-LB
+PGRP-LC,FBgn0035976,Imd pathway,,,,FBgn0035976,PGRP-LC
+PGRP-LE,FBgn0030695,Imd pathway,,,,FBgn0030695,PGRP-LE
+PGRP-LF,FBgn0035977,Imd pathway,,,,FBgn0035977,PGRP-LF
+PGRP-SA,FBgn0030310,Toll pathway,,,,FBgn0030310,PGRP-SA
+PGRP-SC1a,FBgn0043576,Imd pathway,,,,FBgn0043576,PGRP-SC1a
+PGRP-SC1b,FBgn0033327,Imd pathway,,,,FBgn0033327,PGRP-SC1b
+PGRP-SC2,FBgn0043575,Imd pathway,,,,FBgn0043575,PGRP-SC2
+PGRP-SD,FBgn0035806,Toll pathway,,,,FBgn0035806,PGRP-SD
+phl,FBgn0003079,EGFR and PVR RTK signaling pathway,other,,,FBgn0003079,Raf
+Pi3K21B,FBgn0020622,INSULIN signaling pathway,other,,,FBgn0020622,Pi3K21B
+Pi3K92E,FBgn0015279,INSULIN signaling pathway,other,,,FBgn0015279,Pi3K92E
+pirk,FBgn0034647,Imd pathway,,,,FBgn0034647,pirk
+pk,FBgn0003090,Planar Cell Polarity pathway,,,,FBgn0003090,pk
+pll,FBgn0010441,Toll pathway,,,,FBgn0010441,pll
+pnt,FBgn0003118,EGFR and PVR RTK signaling pathway,TF,,,FBgn0003118,pnt
+pnt,FBgn0003118,FGFR signaling pathway,TF,,,FBgn0003118,pnt
+Pp1-13C,FBgn0003132,Circadian Clock pathway,NCore,,,FBgn0003132,Pp1-13C
+Pp1-87B,FBgn0004103,Circadian Clock pathway,NCore,,,FBgn0004103,Pp1-87B
+Pp1-87B,FBgn0004103,Planar Cell Polarity pathway,,,,FBgn0004103,Pp1-87B
+Pp1-Y2,FBgn0046698,Circadian Clock pathway,NCore,,,FBgn0046698,Pp1-Y2
+Pp1alpha-96A,FBgn0003134,Circadian Clock pathway,NCore,,,FBgn0003134,Pp1alpha-96A
+Pp2A-29B,FBgn0260439,Circadian Clock pathway,NCore,,,FBgn0260439,Pp2A-29B
+PP2A-B',FBgn0042693,Circadian Clock pathway,NCore,,,FBgn0042693,wrd
+PP2A-B',FBgn0042693,EGFR and PVR RTK signaling pathway,other,,,FBgn0042693,wrd
+psh,FBgn0030926,Toll pathway,,,,FBgn0030926,psh
+Psn,FBgn0019947,NOTCH signaling pathway,other,,,FBgn0284421,Psn
+ptc,FBgn0003892,HEDGEHOG signaling pathway,receptor,,,FBgn0003892,ptc
+Pten,FBgn0026379,INSULIN signaling pathway,other,,,FBgn0026379,Pten
+PTP-ER,FBgn0016641,EGFR and PVR RTK signaling pathway,other,,,FBgn0016641,PTP-ER
+Ptp61F,FBgn0267487,JAK/STAT signaling pathway,other,,,FBgn0267487,Ptp61F
+puc,FBgn0243512,Imd pathway,,,,FBgn0243512,puc
+puc,FBgn0243512,Planar Cell Polarity pathway,,,,FBgn0243512,puc
+puc,FBgn0243512,TNF alpha signaling pathway,other,,,FBgn0243512,puc
+put,FBgn0003169,TGF beta signaling pathway,receptor,,,FBgn0003169,put
+Pvf1,FBgn0030964,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0030964,Pvf1
+Pvf2,FBgn0031888,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0031888,Pvf2
+Pvf3,FBgn0085407,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0085407,Pvf3
+Pvr,FBgn0032006,EGFR and PVR RTK signaling pathway,receptor,,,FBgn0032006,Pvr
+pygo,FBgn0043900,WNT signaling pathway,TF,,,FBgn0043900,pygo
+pyr,FBgn0033649,FGFR signaling pathway,ligand,,,FBgn0033649,pyr
+Rac1,FBgn0010333,FGFR signaling pathway,other,,,FBgn0010333,Rac1
+Rac1,FBgn0010333,Planar Cell Polarity pathway,,,,FBgn0010333,Rac1
+Rac1,FBgn0010333,TNF alpha signaling pathway,other,,,FBgn0010333,Rac1
+Rac2,FBgn0014011,FGFR signaling pathway,other,,,FBgn0014011,Rac2
+Rac2,FBgn0014011,TNF alpha signaling pathway,other,,,FBgn0014011,Rac2
+RacGAP84C,FBgn0045843,TNF alpha signaling pathway,other,,,FBgn0045843,RacGAP84C
+RagA-B,FBgn0037647,INSULIN signaling pathway,other,,,FBgn0037647,RagA-B
+RagC-D,FBgn0033272,INSULIN signaling pathway,other,,,FBgn0033272,RagC-D
+raptor,FBgn0029840,INSULIN signaling pathway,other,,,FBgn0029840,raptor
+Ras85D,FBgn0003205,EGFR and PVR RTK signaling pathway,other,,,FBgn0003205,Ras85D
+Ras85D,FBgn0003205,FGFR signaling pathway,other,,,FBgn0003205,Ras85D
+RasGAP1,FBgn0004390,EGFR and PVR RTK signaling pathway,other,,,FBgn0004390,RasGAP1
+RasGAP1,FBgn0004390,FGFR signaling pathway,other,,,FBgn0004390,RasGAP1
+Rel,FBgn0014018,Imd pathway,,,,FBgn0014018,Rel
+Rheb,FBgn0041191,INSULIN signaling pathway,other,,,FBgn0041191,Rheb
+rho,FBgn0004635,EGFR and PVR RTK signaling pathway,other,,,FBgn0004635,rho
+Rho1,FBgn0014020,Planar Cell Polarity pathway,,,,FBgn0014020,Rho1
+RhoGAPp190,FBgn0026375,Planar Cell Polarity pathway,,,,FBgn0026375,RhoGAPp190
+RhoGDI,FBgn0036921,Planar Cell Polarity pathway,,,,FBgn0036921,RhoGDI
+RhoGEF2,FBgn0023172,Planar Cell Polarity pathway,,,,FBgn0023172,RhoGEF2
+RhoL,FBgn0014380,TNF alpha signaling pathway,other,,,FBgn0014380,RhoL
+rib,FBgn0003254,FGFR signaling pathway,other,,,FBgn0003254,rib
+rictor,FBgn0031006,INSULIN signaling pathway,other,,,FBgn0031006,rictor
+rl,FBgn0003256,EGFR and PVR RTK signaling pathway,other,,,FBgn0003256,rl
+robo2,FBgn0002543,FGFR signaling pathway,other,,,FBgn0002543,robo2
+Rok,FBgn0026181,Planar Cell Polarity pathway,,,,FBgn0026181,Rok
+Rpd3,FBgn0015805,Imd pathway,,,,FBgn0015805,HDAC1
+RpS6,FBgn0261592,INSULIN signaling pathway,other,,,FBgn0261592,RpS6
+S,FBgn0003310,EGFR and PVR RTK signaling pathway,other,,,FBgn0003310,S
+S6k,FBgn0015806,INSULIN signaling pathway,other,,,FBgn0283472,S6k
+S6kII,FBgn0262866,EGFR and PVR RTK signaling pathway,other,,,FBgn0262866,S6kII
+sav,FBgn0053193,HIPPO signaling pathway,other,,,FBgn0053193,sav
+sax,FBgn0003317,TGF beta signaling pathway,receptor,,,FBgn0003317,sax
+scny,FBgn0260936,Imd pathway,,,,FBgn0260936,scny
+sd,FBgn0003345,HIPPO signaling pathway,TF,,,FBgn0003345,sd
+Ser,FBgn0004197,NOTCH signaling pathway,ligand,,,FBgn0004197,Ser
+sgg,FBgn0003371,Circadian Clock pathway,Core,,,FBgn0003371,sgg
+sgg,FBgn0003371,INSULIN signaling pathway,other,,,FBgn0003371,sgg
+sgg,FBgn0003371,WNT signaling pathway,other,,,FBgn0003371,sgg
+shark,FBgn0015295,TNF alpha signaling pathway,other,,,FBgn0015295,Shark
+Shc,FBgn0015296,EGFR and PVR RTK signaling pathway,other,,,FBgn0015296,Shc
+Shc,FBgn0015296,FGFR signaling pathway,other,,,FBgn0015296,Shc
+shn,FBgn0003396,TGF beta signaling pathway,TF,,,FBgn0003396,shn
+sima,FBgn0266411,INSULIN signaling pathway,TF,,,FBgn0266411,sima
+Sin1,FBgn0033935,INSULIN signaling pathway,other,,,FBgn0033935,Sin1
+SkpA,FBgn0025637,Imd pathway,,,,FBgn0025637,SkpA
+slmb,FBgn0267841,Circadian Clock pathway,Core,,,FBgn0283468,slmb
+slmb,FBgn0267841,Imd pathway,,,,FBgn0283468,slmb
+slpr,FBgn0030018,TNF alpha signaling pathway,other,,,FBgn0030018,slpr
+smo,FBgn0003444,HEDGEHOG signaling pathway,receptor,,,FBgn0003444,smo
+SNF4Agamma,FBgn0264357,INSULIN signaling pathway,other,,,FBgn0264357,SNF4Agamma
+snk,FBgn0003450,Toll pathway,,,,FBgn0003450,snk
+Socs36E,FBgn0041184,JAK/STAT signaling pathway,other,,,FBgn0041184,Socs36E
+Sos,FBgn0001965,EGFR and PVR RTK signaling pathway,other,,,FBgn0001965,Sos
+Sos,FBgn0001965,FGFR signaling pathway,other,,,FBgn0001965,Sos
+SPE,FBgn0039102,Toll pathway,,,,FBgn0039102,SPE
+spheroide,FBgn0030774,Toll pathway,,,,FBgn0030774,sphe
+sphinx1,FBgn0052383,Toll pathway,,,,FBgn0052383,sphinx1
+sphinx2,FBgn0052382,Toll pathway,,,,FBgn0052382,sphinx2
+spi,FBgn0005672,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0005672,spi
+spirit,FBgn0030051,Toll pathway,,,,FBgn0030051,spirit
+Spn27A,FBgn0028990,Toll pathway,,,,FBgn0028990,Spn27A
+spz,FBgn0003495,Toll pathway,,,,FBgn0003495,spz
+sqh,FBgn0003514,Planar Cell Polarity pathway,,,,FBgn0003514,sqh
+Src42A,FBgn0264959,EGFR and PVR RTK signaling pathway,other,,,FBgn0264959,Src42A
+Src42A,FBgn0264959,TNF alpha signaling pathway,other,,,FBgn0264959,Src42A
+Src64B,FBgn0262733,EGFR and PVR RTK signaling pathway,other,,,FBgn0262733,Src64B
+Src64B,FBgn0262733,TNF alpha signaling pathway,other,,,FBgn0262733,Src64B
+ssh,FBgn0029157,EGFR and PVR RTK signaling pathway,other,,,FBgn0029157,ssh
+stan,FBgn0024836,Planar Cell Polarity pathway,,,,FBgn0024836,stan
+Stat92E,FBgn0016917,Imd pathway,,,,FBgn0016917,Stat92E
+Stat92E,FBgn0016917,JAK/STAT signaling pathway,TF,,,FBgn0016917,Stat92E
+step,FBgn0086779,INSULIN signaling pathway,other,,,FBgn0086779,step
+stumps,FBgn0020299,FGFR signaling pathway,other,,,FBgn0020299,stumps
+sty,FBgn0014388,EGFR and PVR RTK signaling pathway,other,,,FBgn0014388,sty
+sty,FBgn0014388,FGFR signaling pathway,other,,,FBgn0014388,sty
+Su(dx),FBgn0003557,NOTCH signaling pathway,other,,,FBgn0003557,Su(dx)
+Su(fu),FBgn0005355,HEDGEHOG signaling pathway,other,,,FBgn0005355,Su(fu)
+Su(H),FBgn0004837,NOTCH signaling pathway,TF,,,FBgn0004837,Su(H)
+Su(var)2-10,FBgn0003612,JAK/STAT signaling pathway,TF,,,FBgn0003612,Su(var)2-10
+svp,FBgn0003651,Nuclear hormone receptor,,,,FBgn0003651,svp
+Tab2,FBgn0086358,Imd pathway,,,,FBgn0086358,Tab2
+Tak1,FBgn0026323,Imd pathway,,,,FBgn0026323,Tak1
+Tak1,FBgn0026323,TNF alpha signaling pathway,other,,,FBgn0026323,Tak1
+Thor,FBgn0261560,INSULIN signaling pathway,other,,,FBgn0261560,Thor
+ths,FBgn0033652,FGFR signaling pathway,ligand,,,FBgn0033652,ths
+tim,FBgn0014396,Circadian Clock pathway,Core,,,FBgn0014396,tim
+Timp,FBgn0025879,FGFR signaling pathway,other,,,FBgn0025879,Timp
+tkv,FBgn0003716,TGF beta signaling pathway,receptor,,,FBgn0003716,tkv
+Tl,FBgn0262473,Toll pathway,,,,FBgn0262473,Tl
+tll,FBgn0003720,Nuclear hormone receptor,,,,FBgn0003720,tll
+Tollo,FBgn0029114,Toll pathway,,,,FBgn0029114,Tollo
+Tom,FBgn0026320,NOTCH signaling pathway,other,,,FBgn0026320,Tom
+Tor,FBgn0021796,INSULIN signaling pathway,other,,,FBgn0021796,Tor
+Tsc1,FBgn0026317,INSULIN signaling pathway,other,,,FBgn0026317,Tsc1
+tsh,FBgn0003866,HIPPO signaling pathway,TF,,,FBgn0003866,tsh
+ttk,FBgn0003870,FGFR signaling pathway,other,,,FBgn0003870,ttk
+tub,FBgn0003882,Toll pathway,,,,FBgn0003882,tub
+tum,FBgn0086356,TNF alpha signaling pathway,other,,,FBgn0086356,tum
+tws,FBgn0004889,Circadian Clock pathway,NCore,,,FBgn0004889,tws
+tyf,FBgn0026083,Circadian Clock pathway,NCore,,,FBgn0026083,tyf
+Uev1A,FBgn0035601,Imd pathway,,,,FBgn0035601,Uev1A
+unpg,FBgn0015561,FGFR signaling pathway,other,,,FBgn0015561,unpg
+upd1,FBgn0004956,JAK/STAT signaling pathway,ligand,,,FBgn0004956,upd1
+upd2,FBgn0030904,JAK/STAT signaling pathway,ligand,,,FBgn0030904,upd2
+upd3,FBgn0053542,JAK/STAT signaling pathway,ligand,,,FBgn0053542,upd3
+usp,FBgn0003964,Nuclear hormone receptor,,,,FBgn0003964,usp
+Usp14,FBgn0032216,Circadian Clock pathway,NCore,,,FBgn0032216,Usp14
+Usp14,FBgn0032216,Toll pathway,,,,FBgn0032216,Usp14
+Vang,FBgn0015838,Planar Cell Polarity pathway,,,,FBgn0015838,Vang
+vn,FBgn0003984,EGFR and PVR RTK signaling pathway,ligand,,,FBgn0003984,vn
+vri,FBgn0016076,Circadian Clock pathway,Core,,,FBgn0016076,vri
+wdb,FBgn0027492,Circadian Clock pathway,NCore,,,FBgn0027492,wdb
+wdb,FBgn0027492,Planar Cell Polarity pathway,,,,FBgn0027492,wdb
+wek,FBgn0001990,Toll pathway,,,,FBgn0001990,wek
+wg,FBgn0004009,WNT signaling pathway,ligand,,,FBgn0284084,wg
+wgn,FBgn0030941,TNF alpha signaling pathway,receptor,,,FBgn0030941,wgn
+Wnt10,FBgn0031903,WNT signaling pathway,ligand,,,FBgn0031903,Wnt10
+Wnt2,FBgn0004360,WNT signaling pathway,ligand,,,FBgn0004360,Wnt2
+Wnt4,FBgn0010453,WNT signaling pathway,ligand,,,FBgn0010453,Wnt4
+Wnt5,FBgn0010194,WNT signaling pathway,ligand,,,FBgn0010194,Wnt5
+Wnt6,FBgn0031902,WNT signaling pathway,ligand,,,FBgn0031902,Wnt6
+wntD,FBgn0038134,Toll pathway,,,,FBgn0038134,wntD
+wts,FBgn0011739,HIPPO signaling pathway,other,,,FBgn0011739,wts
+yki,FBgn0034970,HIPPO signaling pathway,TF,,,FBgn0034970,yki
+zip,FBgn0265434,Planar Cell Polarity pathway,,,,FBgn0265434,zip
