@@ -1,0 +1,6 @@
+abdominal_odd	plum3
+abdominal_even	olivedrab3
+abdominal	darkslateblue
+PS13	chartreuse4
+amnioserosa	gray75
+amnioserosa_PS13-14	gray50
