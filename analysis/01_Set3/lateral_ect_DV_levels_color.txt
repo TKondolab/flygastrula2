@@ -1,0 +1,7 @@
+ectoderm_medial_DE	skyblue3
+ectoderm_intermediate_DE	olivedrab2
+ectoderm_lateral_DE	olivedrab4
+ectoderm_lateral_NE	goldenrod3
+ectoderm_intermediate_NE	plum1
+ectoderm_medial_NE	plum4
+amnioserosa	gray75
