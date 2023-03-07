@@ -8,9 +8,11 @@ This is the Github page for
 
 Jupyter notebooks for our analysis are available in this page.
 
+Our data are available [here](http://example.com)
+
 ## Data and the viewer are available
 
-Our data and viewer for our data are available [here](http://example.com)
+Viewer for our spatial reconstruction data are available [here](http://example.com)
 
 See description below if you want to use our viewer.
 
@@ -20,7 +22,8 @@ Download our viewer folder from [here](http://example.com)
 
 ### Docker install
 
-The environment for our viewer is built using Docker. If Docker is not installed in your devise, install [Docker desktop](https://docs.docker.com/engine/install/)
+The environment for our viewer is built using Docker.  
+ If Docker is not installed in your devise, install [Docker desktop](https://docs.docker.com/engine/install/)
 
 ### Run the viewer
 
