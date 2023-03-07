@@ -14,6 +14,8 @@ Our data are available [here](http://example.com)
 
 Viewer for our spatial reconstruction data are available [here](http://example.com)
 
+<img src="./sample_movie_20230306_trimmed.gif" width = 600>
+
 See description below if you want to use our viewer.
 
 ### Download our viewer
@@ -49,7 +51,7 @@ Access [http://localhost:8050/](http://localhost:8050/) in your browser.
 If "Single cell transcriptome atlas of *Drosophila* gastrula" is displayed on the top page, it is working.  
 You can brows our data on your browser.
 
-![viewer image](./viewer.png)
+
 
 For the browser, Chrome or Safari on Mac is recommended. We have not tested our viewer on other Operation systems or browsers.
 
