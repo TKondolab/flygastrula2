@@ -14,7 +14,7 @@ Our data are available [here](http://example.com)
 
 Viewer for our spatial reconstruction data are available [here](http://example.com)
 
-<img src="./sample_movie_20230306_trimmed.gif" width = 600>
+<img src="./sample_movie_20230306_trimmed.gif" width = 800>
 
 See description below if you want to use our viewer.
 
