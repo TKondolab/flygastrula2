@@ -24,7 +24,7 @@ The environment for our viewer is built using Docker. If Docker is not installed
 
 ### Run the viewer
 
-On your terminal, move to top of project directory.
+On your terminal, move to top of viewer directory.
 ```
 cd flygastrula2_viewer
 ```
