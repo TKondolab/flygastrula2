@@ -8,19 +8,21 @@ This is the Github page for
 
 Jupyter notebooks for our analysis are available in this page.
 
+## Data and the viewer are available
+
 Our data and viewer for our data are available [here](http://example.com)
 
 See description below if you want to use our viewer.
 
-## Download our viewer
+### Download our viewer
 
 Download our viewer folder from [here](http://example.com)
 
-## Docker install
+### Docker install
 
 The environment for our viewer is built using Docker. If Docker is not installed in your devise, install [Docker desktop](https://docs.docker.com/engine/install/)
 
-## Run the viewer
+### Run the viewer
 
 On your terminal, move to top of project directory.
 ```
@@ -48,7 +50,7 @@ You can brows our data on your browser.
 
 For the browser, Chrome or Safari on Mac is recommended. We have not tested our viewer on other Operation systems or browsers.
 
-## Stop and restart the viewer
+### Stop and restart the viewer
 You can stop the Docker container with the following command.
 ```
 docker stop dmel-gastrula
