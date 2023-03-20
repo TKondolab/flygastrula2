@@ -1,46 +1,43 @@
 # flygastrula2
-The single-cell transcriptome atlas of *Drosophila* gastrula
+This is the GitHub page for the "Single-cell transcriptome atlas of Drosophila gastrula 2.0" (Sakaguchi et al., 2021, bioRxiv) [\[link\]](https://www.biorxiv.org/content/10.1101/2021.12.27.474293v1). The paper describes the data obtained from single-cell RNA sequencing of the Drosophila gastrula.
 
-This is the Github page for
+All processed data including UMI count tables, Seurat objects and loom files are available are available [here](http://example.com).
 
-"Single-cell transcriptome atlas of Drosophila gastrula 2.0" (S. Sakaguchi et al., 2021, bioRxiv)
-[link](https://www.biorxiv.org/content/10.1101/2021.12.27.474293v1)
+Loom files are compatible with viewing in [SCope](https://scope.aertslab.org).　　
 
-Jupyter notebooks for our analysis are available in this page.
+Jupyter Notebooks used for data analysis are also available on this page.
 
-Our data are available [here](http://example.com)
+The viewer, described below, allows browsing the dataset, including cluster information and gene expression level on UMAP, the gene expression level in each pair-rule stripe, and spatial gene expression reconstructed by Perler and NovoSpaRc on the browser.
 
-## Data and the viewer are available
-
-Viewer for our spatial reconstruction data are available [here](http://example.com)
+## How to use the Viewer
 
 <img src="./sample_movie_20230306_trimmed.gif" width = 800>
 
-See description below if you want to use our viewer.
-
-### Download our viewer
-
-Download our viewer folder from [here](http://example.com)
+The viewer environment is built using Docker, and the installation process is as follows.
 
 ### Docker install
 
-The environment for our viewer is built using Docker.  
- If Docker is not installed in your devise, install [Docker desktop](https://docs.docker.com/engine/install/)
+If you have not yet installed Docker, install [Docker desktop](https://docs.docker.com/engine/install/)
+
+### Download our viewer
+
+Download our viewer source from [here](http://example.com)
 
 ### Run the viewer
+ 1. Start Docker desktop
 
-On your terminal, move to top of viewer directory.
+ 2. Start Terminal and move to the directory of the viewer source:
 ```
-cd flygastrula2_viewer
-```
-
-Make the Docker image and container using Docker-compose
-
-```
-docker-compose up -d --build  
+cd flygastrula2_viewer #If the “flygastrula2_viewer” directory exists in the home directory.
 ```
 
-Run the viewer with the following command
+3. Make the Docker image and container using Docker-compose:
+
+```
+docker-compose up -d --build
+```
+
+4. Run the viewer:
 
 ```
 docker exec dmel-gastrula python app.py
@@ -48,15 +45,21 @@ docker exec dmel-gastrula python app.py
 
 Access [http://localhost:8050/](http://localhost:8050/) in your browser.
 
-If "Single cell transcriptome atlas of *Drosophila* gastrula" is displayed on the top page, it is working.  
+If "Single cell transcriptome atlas of *Drosophila* gastrula" is displayed on the top page, it is working.
+
 You can brows our data on your browser.
 
+Now, you can browse the Set3-CAP data including:
+- Cluster information and gene expression level on UMAP (Seurat clusters, Sub-clusters, Genes)
+- Gene expression level in each pair rule strip (Stripe)
+- Spatial gene expression reconstructed by Perler and NovoSpaRc (VISH and Dual VISH)
 
 
-For the browser, Chrome or Safari on Mac is recommended. We have not tested our viewer on other Operation systems or browsers.
+
+Chrome or Safari on Mac is recommended for browsing. We have not tested our viewer on other Operation systems or browsers.
 
 ### Stop and restart the viewer
-You can stop the Docker container with the following command.
+You can stop the Docker container with the following command in Terminal:
 ```
 docker stop dmel-gastrula
 ```
