@@ -1,7 +1,7 @@
 # flygastrula2
 This is the GitHub page for the "Single-cell transcriptome atlas of Drosophila gastrula 2.0" (Sakaguchi et al., 2021, bioRxiv) [\[link\]](https://www.biorxiv.org/content/10.1101/2021.12.27.474293v1). The paper describes the data obtained from single-cell RNA sequencing of the Drosophila gastrula.
 
-All processed data including UMI count tables, Seurat objects and loom files are available are available [here](https://kyotouac-my.sharepoint.com/:f:/g/personal/kondo_takefumi_7v_kyoto-u_ac_jp/Em050jK6biJPp5spAcPqFqMBxEesA0gM5U0I4pNBzrnRXQ?e=u4l1gU).
+All processed data including UMI count tables, Seurat objects and loom files are available [here](https://kyotouac-my.sharepoint.com/:f:/g/personal/kondo_takefumi_7v_kyoto-u_ac_jp/Em050jK6biJPp5spAcPqFqMBxEesA0gM5U0I4pNBzrnRXQ?e=u4l1gU).
 
 Loom files are compatible with viewing in [SCope](https://scope.aertslab.org).　　
 
