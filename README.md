@@ -43,7 +43,7 @@ docker-compose up -d --build
 docker exec dmel-gastrula python app.py
 ```
 
-Access [http://localhost:8050/](http://localhost:8050/) in your browser.
+5. Access [http://localhost:8050/](http://localhost:8050/) in your browser.
 
 If "Single cell transcriptome atlas of *Drosophila* gastrula" is displayed on the top page, it is working.
 
