@@ -43,7 +43,6 @@ docker run -it -p 8050:8050 --name flygastrula2_viewer -w /home/ flygastrula2_vi
 
 5. When the display shows "Dash is running on http://0.0.0.0:8050/",<br>
    access [http://0.0.0.0:8050/](http://0.0.0.0:8050/) in your browser.<br>
-<br>
 
   - For the browser, Chrome is recommended. 
 
