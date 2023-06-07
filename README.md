@@ -23,14 +23,14 @@ If you have not yet installed Docker, install [Docker desktop](https://docs.dock
 
 ### Download the Docker image of the viewer 
 
-Download "viewer.tar.gz" containing the Docker images of viewer from [here](http://dx.doi.org/10.17632/k8g638cmxv.1).<br>
+Download "viewer.tar.gz" containing the Docker images of the viewer from [here](http://dx.doi.org/10.17632/k8g638cmxv.1).<br>
 <br>
 <br>
 
 ### Run the viewer
 
 1. Choose the arm64/amd64 flygastrula2_viewer.tar depending on your device, and move it to your home directory.<br>
-2. Start Docker desktop<br>
+2. Start Docker desktop.<br>
 3. Start Terminal, move to the home directory, and load the image into Docker by the following command.<br>
 ```
 docker load -i flygastrula2_viewer.tar
